@@ -9,7 +9,6 @@ public class Main {
         float Salary = 1.25f;//float
         boolean Status = true;//boolean
 
-
         // Print variables
         System.out.println("Employee name: " + Name);
         System.out.println("ID: " + ID);
