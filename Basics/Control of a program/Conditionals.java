@@ -9,6 +9,7 @@ public class Conditionals {
 
 
 
+
         
         int i2=0;
         if (i2!=0){//If-Else statement
