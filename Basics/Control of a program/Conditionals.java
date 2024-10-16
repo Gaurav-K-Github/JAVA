@@ -1,5 +1,4 @@
 package GIT_projects.src;
-
 public class Conditionals {
     public static void main(String[] args){
         int i1=2;
