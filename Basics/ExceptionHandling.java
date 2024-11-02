@@ -25,5 +25,4 @@ public class ExceptionHandling {
     public void riskymethod() throws IOException{
         //might throw an IO Exception
     }
-
 }
