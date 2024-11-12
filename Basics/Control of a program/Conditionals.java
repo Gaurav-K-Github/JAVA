@@ -9,7 +9,6 @@ public class Conditionals {
 
 
         
-        
         int i2=0;
         if (i2!=0){//If-Else statement
             System.out.println("Non zero number!\n");
