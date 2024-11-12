@@ -6,9 +6,6 @@ public class Conditionals {
         if (i1!=0){//Simple if condition
             System.out.println("Non zero number!\n");
         };
-
-
-
         
         
         int i2=0;
