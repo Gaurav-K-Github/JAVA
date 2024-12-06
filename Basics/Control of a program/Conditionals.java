@@ -17,8 +17,6 @@ public class Conditionals {
         };
 
 
-
-
         int i3=-2;
         if (i3>0){//Else-if ladder
             System.out.println("A positive number!\n");
