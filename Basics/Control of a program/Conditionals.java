@@ -28,7 +28,6 @@ public class Conditionals {
 
 
 
-
         
         int day=3;
         switch (day) {//Switch Statement
