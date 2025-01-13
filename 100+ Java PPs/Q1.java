@@ -6,4 +6,3 @@ public class Q1 {
     }
 }
 
-
