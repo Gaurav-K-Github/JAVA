@@ -21,6 +21,7 @@ public class ExceptionHandling {
         }
 
         
+        
     }
     //c.Throws clause
     public void riskymethod() throws IOException{
