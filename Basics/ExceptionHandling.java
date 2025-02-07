@@ -13,7 +13,6 @@ public class ExceptionHandling {
         }finally{
             System.out.println("Always got this one executing!");
         }
-
         //b.Throw
         int age=0;
         if (age==0){
