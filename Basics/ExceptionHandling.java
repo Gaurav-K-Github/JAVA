@@ -20,7 +20,7 @@ public class ExceptionHandling {
             throw new IllegalArgumentException("Age 18+");
         }
         
-        
+    
     }
     //c.Throws clause
     public void riskymethod() throws IOException{
