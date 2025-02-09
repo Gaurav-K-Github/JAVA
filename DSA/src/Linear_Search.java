@@ -5,7 +5,6 @@ public class Linear_Search {
         boolean flag=false;
 
 
-        
 
         for (int i=0;i<arr1.length;i++) {
             if (arr1[i] == target) {
