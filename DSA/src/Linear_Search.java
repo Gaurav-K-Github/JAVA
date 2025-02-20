@@ -7,7 +7,6 @@ public class Linear_Search {
             if (arr1[i] == target) {
                 System.out.println(target + " found @ " + i + " index!");
                 
-
                 flag = true;
                 break;
             }
