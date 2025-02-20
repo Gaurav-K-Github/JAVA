@@ -8,6 +8,7 @@ public class Linear_Search {
                 System.out.println(target + " found @ " + i + " index!");
                 
 
+                
                 flag = true;
                 break;
             }
