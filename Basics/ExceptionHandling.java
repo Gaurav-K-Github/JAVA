@@ -9,7 +9,7 @@ public class ExceptionHandling {
             int res = 10 / 0;//throws ArithmeticException
         }catch(ArithmeticException e){
             System.out.println("Not possible to divide!!");
-
+ 
         }finally{
             System.out.println("Always got this one executing!");
         } 
