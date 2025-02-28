@@ -19,7 +19,7 @@ public class ExceptionHandling {
         if (age==0){
             throw new IllegalArgumentException("Age 18+");
         }
-        
+         
     
     }
     //c.Throws clause
