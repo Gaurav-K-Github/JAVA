@@ -1,5 +1,6 @@
 //9. Write a program to find the factorial of a number using loops.
 
+
 import java.util.*;
 
 public class Q9 {
